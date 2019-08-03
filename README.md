@@ -1,7 +1,7 @@
 # Python-Projects
 A repository for personal and classroom projects coded in Python
 
-Open the Jupyter Notebooks to see projects. Other files are csv files that are used in the projects. 
+Open the Jupyter Notebooks inside the different folders to see projects. Other files are csv files that are used in the projects. 
 
 Topics include:   
 
@@ -11,6 +11,10 @@ Topics include:
   
   3. Machine Learning Project: a foray into machine learning that looks to change parameters to achieve better results. 
   
-  4. Final Project - done for a class: Intro to Computing for Scientists and Engineers, includes projects such as transliteration, bit parity, and displaying data from csv files. 
+  4. Dictionary Class - implements a Dictionary that stores a set of information as a list of lists, designed so that it takes in a csv file. Allows you to both read and write easily to this csv file. 
+  
+  5. Spell Checker - given a dictionary.csv file, uses the file to spell check and provide suggestions for mispelled words, while also logging the amount of times you have used the suggested word as well. 
+  
+  6. Final Project - done for a class: Intro to Computing for Scientists and Engineers, includes projects such as transliteration, bit parity, and displaying data from csv files. 
   
   
